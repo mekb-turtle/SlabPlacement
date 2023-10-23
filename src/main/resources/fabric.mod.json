@@ -3,7 +3,7 @@
   "id": "slabplacement",
   "version": "${version}",
   "name": "Slab Placement",
-  "description": "",
+  "description": "Forces placing top or bottom slabs only",
   "authors": [],
   "contact": {
     "repo": "https://github.com/mekb-turtle/SlabPlacement"
