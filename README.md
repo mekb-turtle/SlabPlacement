@@ -5,7 +5,7 @@
 </h3>
 
 ### About
-This mod makes it easier for Redstoners to place top slabs. By pressing U (or another keybind) it will switch between top slab, bottom slab, and default behaviour.
+This mod makes it easier for Redstoners to place top slabs. By pressing U (or another keybind) it will switch between placing top slabs, placing bottom slabs, and default behaviour.
 
 ### Building
 - Clone the repository
