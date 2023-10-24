@@ -9,9 +9,9 @@ name: Fabric Mod
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "1.20.1" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "1.20.1" ]
 
 permissions:
   contents: read
