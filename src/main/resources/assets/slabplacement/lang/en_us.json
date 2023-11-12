@@ -1,6 +1,6 @@
 {
   "key.slabplacement.switch": "Switch Slab Placement Mode",
-  "slabplacement.switch.default": "Disabled slab placement",
+  "slabplacement.switch.default": "Default slab placement",
   "slabplacement.switch.top": "Top slab placement",
   "slabplacement.switch.bottom": "Bottom slab placement"
 }
